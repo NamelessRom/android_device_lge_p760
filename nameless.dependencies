@@ -1,0 +1,14 @@
+[
+ {
+   "remote": "nameless",
+   "repository": "android_device_lge_u2-common",
+   "target_path": "device/lge/u2-common"
+   "branch": "android-4.4"
+ }
+ {
+   "remote": "nameless",
+   "repository": "android_kernel_lge_sniper",
+   "target_path": "kernel/lge/p970",
+   "branch": "android-4.4"
+ }
+]
