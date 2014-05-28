@@ -7,8 +7,8 @@
  }
  {
    "remote": "nameless",
-   "repository": "android_kernel_lge_sniper",
-   "target_path": "kernel/lge/p970",
+   "repository": "android_kernel_lge_omap4",
+   "target_path": "kernel/lge/omap4-common",
    "branch": "android-4.4"
  }
 ]
